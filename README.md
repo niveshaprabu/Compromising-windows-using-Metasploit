@@ -68,8 +68,8 @@ The Metasploit shell is running inside the "fun.exe" process. If the user closes
 
 
 Post Exploitation The target is now owned. Following are meterpreter commands for key capturing in the target machine keyscan_start Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
+![Screenshot 2024-10-28 155331](https://github.com/user-attachments/assets/c21a860a-9498-45e6-960a-38a1dbec4ffb)
 
-![Screenshot 2024-10-28 155324](https://github.com/user-attachments/assets/8ca73537-9aa2-444d-af81-e2389dc8547a)
 ![Screenshot 2024-10-28 155342](https://github.com/user-attachments/assets/0eb669b7-e2d8-4076-80ff-380680d1f313)
 
 
